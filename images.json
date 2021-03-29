@@ -1,0 +1,38 @@
+[
+    {
+        "url": "img/gallery/baguette.jpg",
+        "caption": "Baguette of bread"
+    },
+    {
+        "url": "img/gallery/campagne.jpg",
+        "caption": "Farmhouse bread"
+    },
+    {
+        "url": "img/gallery/burger.jpg",
+        "caption": "Burger bread"
+    },
+    {
+        "url": "img/gallery/bagel.jpg",
+        "caption": "Bagel bread"
+    },
+    {
+        "url": "img/gallery/ciabatta.jpg",
+        "caption": "Ciabatta bread"
+    },
+    {
+        "url": "img/gallery/focaccia.jpg",
+        "caption": "Focaccia bread"
+    },
+    {
+        "url": "img/gallery/hotdog.jpg",
+        "caption": "Hot dog bun"
+    },
+    {
+        "url": "img/gallery/mie.jpg",
+        "caption": "Soft bread"
+    },
+    {
+        "url": "img/gallery/pita.jpg",
+        "caption": "Pita bread"
+    }
+]
